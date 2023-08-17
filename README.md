@@ -18,9 +18,8 @@
 
 ### About Me :
 
-Welcome to my GitHub profile - here I share my projects and learn new things.
-
 I invite you to my GitHub profile, where I practice both already mastered and new technical skills, share my projects.<br>
+
 ⚡ Since December 2022, I am studying to become a **Full Stack developer** (currently learning React and ReactNative).<br>
 ⚡ While studying, I am actively improving my **JavaScript** skills, so I am always open to invitations to interesting team projects.<br>
 ⚡ **Open to new collaborations and challenges to improve my achievements**.<br>
