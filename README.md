@@ -58,7 +58,7 @@ I invite you to my GitHub profile, where I practice both already mastered and ne
   <img src="./images/figma-original.svg" title="Figma" alt="Figma"  height="40"/>&nbsp&nbsp;
   <img src="./images/npm-original.svg" title="Npm" alt="Npm"  height="40"/>&nbsp&nbsp;
   <img src="./images/parcel.svg" title="Parcel" alt="Parcel" height="40"/>&nbsp&nbsp;
-  <img src="./images/wwebpack-original.svg-original.svg" title="Webpack-original.svg" alt="Webpack"  height="40"/>&nbsp&nbsp;
+  <img src="./images/webpack-original.svg-original.svg" title="Webpack-original.svg" alt="Webpack"  height="40"/>&nbsp&nbsp;
   <img src="./images/sql.png" title="SQL" alt="SQL"  height="40"/>&nbsp&nbsp;
   <img src="./images/postgresql.png" title="PostgreSQL" alt="PostgreSQL"  height="40"/>&nbsp&nbsp;
   <img src="./images/python.png" title="Python" alt="Python"  height="40"/>&nbsp&nbsp;
