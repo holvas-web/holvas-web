@@ -24,15 +24,15 @@ I invite you to my GitHub profile, where I practice both already mastered and ne
     Webpack, Parcel, Vite, Git, and GitHub for version control.<br>
 ⚡ <b>Professional experience:</b>
         <li>
-            - Operations Manager in a construction company, where I optimize business processes and improve operational efficiency.<br>
+            Operations Manager in a construction company, where I optimize business processes and improve operational efficiency.<br>
         </li>
         <li>
-            - Self-employed in IT, developing websites from scratch for clients, including responsive design and basic SEO optimization.<br>
+            Self-employed in IT, developing websites from scratch for clients, including responsive design and basic SEO optimization.<br>
         </li>
     <b>My latest commercial project:</b><br>
-        <a href='https://podoswroclaw.pl/' target="_blank">PodOS</a> – a website for a podology clinic.<br>
+        <a href='https://podoswroclaw.pl/' target='_blank'>PodOS</a> – a website for a podology clinic.<br>
     <b>My previous team projects:</b><br>
-        <a href='https://okohop.github.io/healthy_hub/main' target="_blank">HealthyHub</a> - a service will help you <br>
+        <a href='https://okohop.github.io/healthy_hub/main' target="_blank">HealthyHub</a> - a service will help you<br>
         set goals and follow them, watch your calories, keep track of your water intake and control your weight.<br> 
         <a href='https://andrewdyomin.github.io/tasty-treats/' target="_blank">Tasty Treats</a> – an application for searching video recipes.<br>
         <a href='https://sidermc.github.io/goit-team-project-group-11/' target="_blank">Mimino</a> – a website for a hotel and restaurant complex.<br>
@@ -45,7 +45,7 @@ I invite you to my GitHub profile, where I practice both already mastered and ne
     alt="Typing SVG"
     />
 </div>
-<br>
+
 ### My stack and tools :
 <div>
   <img src="./images/html5-original.svg" title="HTML5" alt="HTML5"  height="40"/>&nbsp&nbsp;
