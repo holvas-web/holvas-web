@@ -19,9 +19,23 @@
 I invite you to my GitHub profile, where I practice both already mastered and new technical skills, share my projects.
 
 ### About Me :
-⚡ Since December 2022, I am studying to become a **Full Stack developer** (currently learning React and ReactNative).<br>
-⚡ While studying, I am actively improving my **JavaScript** skills, so I am always open to invitations to interesting team projects.<br>
-⚡ **Open to new collaborations and challenges to improve my achievements**.<br>
+⚡ I’m a Data Analyst and Full-Stack Developer with experience in building responsive websites and developing software solutions.<br> 
+    My profile contains projects where I used technologies such as HTML5, CSS3, JavaScript, React, Node.js, as well as tools like<br> 
+    Webpack, Parcel, Vite, Git, and GitHub for version control.<br>
+⚡ <b>Professional experience:</b>
+        <li>
+            - Operations Manager in a construction company, where I optimize business processes and improve operational efficiency.<br>
+            - Self-employed in IT, developing websites from scratch for clients, including responsive design and basic SEO optimization.<br>
+        </li>
+    <b>My latest commercial project:</b>
+        <a href='https://podoswroclaw.pl/' target="_blank">PodOS</a> – a website for a podology clinic.
+    <b>My previous team projects:</b>
+        <a href='https://okohop.github.io/healthy_hub/main' target="_blank">HealthyHub</a> - a service will help you <br>
+        set goals and follow them, watch your calories, keep track of your water intake and control your weight.<br> 
+        <a href='https://andrewdyomin.github.io/tasty-treats/' target="_blank">Tasty Treats</a> – an application for searching video recipes.<br>
+        <a href='https://sidermc.github.io/goit-team-project-group-11/' target="_blank">Mimino</a> – a website for a hotel and restaurant complex.<br>
+
+⚡ Feel free to explore my projects and contact me if you are interested in collaboration!
 📫 Please write to me if you have new projects for me: [glbvsk@gmail.com].<br>
 👨‍💻 Interesting fact: every Senior developer started with:
 <div align="center">
@@ -44,5 +58,8 @@ I invite you to my GitHub profile, where I practice both already mastered and ne
   <img src="./images/figma-original.svg" title="Figma" alt="Figma"  height="40"/>&nbsp&nbsp;
   <img src="./images/npm-original.svg" title="Npm" alt="Npm"  height="40"/>&nbsp&nbsp;
   <img src="./images/parcel.svg" title="Parcel" alt="Parcel" height="40"/>&nbsp&nbsp;
-  <img src="./images/webpack-original.svg" title="Webpack" alt="Webpack"  height="40"/>&nbsp&nbsp;
+  <img src="./images/wwebpack-original.svg-original.svg" title="Webpack-original.svg" alt="Webpack"  height="40"/>&nbsp&nbsp;
+  <img src="./images/sql.png" title="SQL" alt="SQL"  height="40"/>&nbsp&nbsp;
+  <img src="./images/postgresql.png" title="PostgreSQL" alt="PostgreSQL"  height="40"/>&nbsp&nbsp;
+  <img src="./images/python.png" title="Python" alt="Python"  height="40"/>&nbsp&nbsp;
 </div>
