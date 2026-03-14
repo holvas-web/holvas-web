@@ -25,28 +25,28 @@ I invite you to my GitHub profile, where I practice both already mastered and ne
 ⚡ <b>Professional experience:</b>
         <li>
             - Operations Manager in a construction company, where I optimize business processes and improve operational efficiency.<br>
+        </li>
+        <li>
             - Self-employed in IT, developing websites from scratch for clients, including responsive design and basic SEO optimization.<br>
         </li>
-    <b>My latest commercial project:</b>
-        <a href='https://podoswroclaw.pl/' target="_blank">PodOS</a> – a website for a podology clinic.
-    <b>My previous team projects:</b>
+    <b>My latest commercial project:</b><br>
+        <a href='https://podoswroclaw.pl/' target="_blank">PodOS</a> – a website for a podology clinic.<br>
+    <b>My previous team projects:</b><br>
         <a href='https://okohop.github.io/healthy_hub/main' target="_blank">HealthyHub</a> - a service will help you <br>
         set goals and follow them, watch your calories, keep track of your water intake and control your weight.<br> 
         <a href='https://andrewdyomin.github.io/tasty-treats/' target="_blank">Tasty Treats</a> – an application for searching video recipes.<br>
         <a href='https://sidermc.github.io/goit-team-project-group-11/' target="_blank">Mimino</a> – a website for a hotel and restaurant complex.<br>
-
-⚡ Feel free to explore my projects and contact me if you are interested in collaboration!
+⚡ Feel free to explore my projects and contact me if you are interested in collaboration!<br>
 📫 Please write to me if you have new projects for me: [glbvsk@gmail.com].<br>
-👨‍💻 Interesting fact: every Senior developer started with:
+👨‍💻 Interesting fact: every Senior developer started with:<br>
 <div align="center">
     <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=00A42D&center=true&repeat=true&vCenter=true&width=650&lines=%C2%ABHello%2C+world!"
     alt="Typing SVG"
     />
 </div>
-
+<br>
 ### My stack and tools :
-
 <div>
   <img src="./images/html5-original.svg" title="HTML5" alt="HTML5"  height="40"/>&nbsp&nbsp;
   <img src="./images/css3-original.svg"  title="CSS3" alt="CSS3"  height="40"/>&nbsp&nbsp;
